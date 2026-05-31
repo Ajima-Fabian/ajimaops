@@ -43,7 +43,7 @@ const About = () => {
                 >
 
                     <div className='relative z-10 rounded-2xl overflow-hidden border border-slate-800 bg-slate-900/50 backdrop-blur-sm aspect-[4/5] shadow-2xl'>
-                        <img src={profileImage} alt="Ajima Fabian" className='w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity duration-500' />
+                        <img src={profileImage} alt="Ajima Fabian" loading="lazy" className='w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity duration-500' />
 
                         <div className='absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-slate-950 via-slate-950/80 to-transparent'>
 
