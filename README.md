@@ -153,7 +153,7 @@ Planned enhancements include:
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/ajimaops.git
+git clone https://github.com/Ajima-Fabian/ajimaops.git
 ```
 Navigate into the project directory:
 ```
