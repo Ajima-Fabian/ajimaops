@@ -152,7 +152,7 @@ export const skillsData = [
         icon: <Terminal className="text-yellow-300" />
       },
       {
-        name: "Vercel Deployment",
+        name: "Cloud Deployment",
         level: "Advanced",
         icon: <Cloud className="text-white" />
       }
