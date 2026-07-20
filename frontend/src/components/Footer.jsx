@@ -22,7 +22,7 @@ const Footer = () => {
                             <span className="text-blue-500">Ops</span>
                         </Link>
                         <p className="mt-4 max-w-sm text-slate-400">
-                            Buildig reliable software systems wiht a focus on Linux, Networking, Backend Engineering, Cloud-Native Technologies and scalable infrastructure.
+                            Buildig reliable software systems with a focus on Linux, Networking, Backend Engineering, Cloud-Native Technologies and scalable infrastructure.
                         </p>
                     </div>
 
