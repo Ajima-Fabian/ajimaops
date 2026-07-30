@@ -90,7 +90,7 @@ const Home = () => {
                             name: <span className='text-green-400'>"Ajima Fabian"</span>,
                         </div>
                         <div className='pl-4 text-slate-300'>
-                            role: <span className='text-green-400'>Full Stack Developer</span>,
+                            role: <span className='text-green-400'>"Full Stack Developer"</span>,
                         </div>
                         <div className='pl-4 text-slate-300'>
                             skills: <span className='text-yellow-300'>[</span>
