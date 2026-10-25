@@ -58,7 +58,7 @@ const Skills = () => {
               "Security"
             ].map((item) => (
               <span key={item} className='text-blue-300 px-4 py-2 rounded-full border border-blue-500/20 text-sm bg-blue-500/5 font-mono backdrop-blur-sm'>
-                Exploring: {item}
+                {item}
               </span>
             ))
           }
